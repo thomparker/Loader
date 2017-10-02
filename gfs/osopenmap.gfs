@@ -108,8 +108,8 @@
       <Type>Integer</Type>
     </PropertyDefn>
     <PropertyDefn>
-      <Name>junctionNumber</Name>
-      <ElementPath>junctionnumber</ElementPath>
+      <Name>junctionnumber</Name>
+      <ElementPath>junctionNumber</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
   </GMLFeatureClass>
